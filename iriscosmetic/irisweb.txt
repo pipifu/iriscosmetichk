@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Iris Cosmetics-HK</title>
+        <meta name="description" content="Hong Kong's leading cosmetic brand which always care about the needs of costumers and their feelings">
+        <meta name="keywords" content="cosmetic, iris">
+        <meta name="template" content="dynamic-xf-page-template">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+
+    <h1 style="color:White;">Iris Cosmestic-HK</h1>
+    <style>
+h1{ font-size:10px;
+color:#701111;}
+h3{ font-size:30px;}
+h4{ font-size:30px;}
+
+    </style>
+
+</head>
+
+
+
+<body style="background-color:#6b1c14;">
+
+    <h2 style="color:#fc9288;">New Arrival</h2>
+  
+    <h3 style="color:#fc9288;"align="center">Wine of Winter Collection</h3>
+  
+    <h4 style="color:#fc9288;" >Wine</h4>
+    <img src="irisgirl.jpg" alt="The poster of the Wine in Winter collection;"
+    width="100"
+    height="100">
+            
+
+
+
+</body>
+
+</html>
